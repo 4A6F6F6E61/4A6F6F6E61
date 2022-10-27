@@ -24,12 +24,6 @@ A Browsermanager for Windows, MaxOS (coming Soon) and Linux made with [Dart](htt
 
 A highly customizable Snake clone made with Java and Swing.
 
-Screenshots:
-
-<img src="assets/Snake/Home.png" alt="Home" name="Home" height="250"/>
-<img src="assets/Snake/ingame.png" alt="Ingame" title="Ingame" height="250"/>
-<img src="assets/Snake/Settings.png" alt="Settings" title="Settings" height="250"/>
-
 ### [TSenhanced](https://github.com/4A6F6F6E61/TSenhanced)
 
 An alternate TypeScript Syntax made in Python.
