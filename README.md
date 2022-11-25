@@ -26,7 +26,7 @@ A highly customizable Snake clone made with Java and Swing.
 
 ### [TSenhanced](https://github.com/4A6F6F6E61/TSenhanced)
 
-An alternate TypeScript Syntax made in Python.
+An alternate TypeScript Syntax made in Python. (Simple old project)
 
 ## Skills
 
