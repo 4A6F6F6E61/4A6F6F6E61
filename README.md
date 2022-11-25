@@ -36,7 +36,7 @@ An alternate TypeScript Syntax made in Python. (Simple old project)
 - React
 - Next
 - Java
-- C, C++
+- C
 - Dart
 - Flutter
 - ChakraUI
@@ -48,7 +48,7 @@ An alternate TypeScript Syntax made in Python. (Simple old project)
 - Angular
 - Go
 - Rust
-- C#
+- C#, C++
 - Laravel
 - Tailwind
 - Haskell
