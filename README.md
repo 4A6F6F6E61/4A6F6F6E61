@@ -4,6 +4,10 @@ Hi, welcome to my GitHub profile! 👋
 
 ## 🔭 I’m currently working on
 
+### - [Lang](https://github.com/4A6F6F6E61/lang)
+
+WIP language that compiles to various programming languages like CXX written in pure [Rust](https://www.rust-lang.org/).
+
 ### - [Social](https://github.com/4A6F6F6E61/Social)
 
 A simple Twitter-like Social-Media Site made with [TailwindCSS](https://tailwindcss.com/), [MySQL](https://www.mysql.com/), [PHP](https://www.php.net/) and [Laravel](https://laravel.com/).
